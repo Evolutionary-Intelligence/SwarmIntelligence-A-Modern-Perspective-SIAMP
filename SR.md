@@ -1,5 +1,8 @@
 #
 
+* Matarić, M.J., 1995.
+  Issues and approaches in the design of collective autonomous agents.
+  Robotics and Autonomous Systems, 16(2-4), pp.321-331.
 * Mataric, M.J., 1994.
   Interaction and intelligent behavior.
   Doctoral Dissertation, Massachusetts Institute of Technology.
