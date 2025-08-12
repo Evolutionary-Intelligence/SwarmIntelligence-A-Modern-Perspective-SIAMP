@@ -1,4 +1,9 @@
-#
+# (ACO)
+
+## A History of ACO
+
+Inspired by coordinated interations of ants.
+The ACO was published for the first time in the Artificial Life conference called ECAL (now as ALife).
 
 ## Reference
 
