@@ -10,6 +10,9 @@
 * Blum, C. and Dorigo, M., 2005.
   Search bias in ant colony optimization: On the role of competition-balanced systems.
   IEEE Transactions on Evolutionary Computation, 9(2), pp.159-174.
+* Papadimitriou, C.H. and Steiglitz, K., 1998.
+  Combinatorial optimization: Algorithms and complexity.
+  Dover Publications.
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996.
   Ant system: Optimization by a colony of cooperating agents.
   IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
