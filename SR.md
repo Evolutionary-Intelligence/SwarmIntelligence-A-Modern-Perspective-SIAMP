@@ -1,6 +1,9 @@
 #
 
 * Matarić, M.J., 1995.
+  Designing and understanding adaptive group behavior.
+  Adaptive Behavior, 4(1), pp.51-80.
+* Matarić, M.J., 1995.
   Issues and approaches in the design of collective autonomous agents.
   Robotics and Autonomous Systems, 16(2-4), pp.321-331.
 * Mataric, M.J., 1994.
