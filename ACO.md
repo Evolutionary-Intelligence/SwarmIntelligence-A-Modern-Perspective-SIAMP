@@ -25,6 +25,9 @@ The ACO was published for the first time in the Artificial Life conference calle
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996.
   Ant system: Optimization by a colony of cooperating agents.
   IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
+* Gambardella, L.M. and Dorigo, M., 1995.
+  Ant-Q: A reinforcement learning approach to the traveling salesman problem.
+  In Machine learning (pp. 252-260). Morgan Kaufmann.
 * Dorigo, M., Colorni, A. and Maniezzo, V., 1991.
   Distributed optimization by ant colonies.
   In Proceedings of European Conference on Artificial Life (pp. 134-142).
