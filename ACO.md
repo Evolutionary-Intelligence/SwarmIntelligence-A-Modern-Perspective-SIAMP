@@ -23,5 +23,8 @@
 * Dorigo, M., Colorni, A. and Maniezzo, V., 1991.
   Distributed optimization by ant colonies.
   In Proceedings of European Conference on Artificial Life (pp. 134-142).
+* Lin, S. and Kernighan, B.W., 1973.
+  An effective heuristic algorithm for the traveling-salesman problem.
+  Operations Research, 21(2), pp.498-516.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.SIAMP)
