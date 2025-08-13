@@ -2,7 +2,7 @@
 
 ## A History of ACO
 
-Inspired by coordinated interations of ants ("allelomimesis").
+Inspired by coordinated interations of ants ("[allelomimesis](https://faculty.washington.edu/paymana/swarm/colorni92-ecal.pdf)").
 The ACO was published for the first time in the Artificial Life conference called ECAL (now as ALife).
 
 ## Reference
