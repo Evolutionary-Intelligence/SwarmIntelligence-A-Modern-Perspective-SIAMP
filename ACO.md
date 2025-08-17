@@ -19,6 +19,9 @@ The ACO was published for the first time in the Artificial Life conference calle
 * Blum, C. and Dorigo, M., 2005.
   Search bias in ant colony optimization: On the role of competition-balanced systems.
   IEEE Transactions on Evolutionary Computation, 9(2), pp.159-174.
+* Dorigo, M., Bonabeau, E. and Theraulaz, G., 2000.
+  Ant algorithms and stigmergy.
+  Future Generation Computer Systems, 16(8), pp.851-871.
 * Papadimitriou, C.H. and Steiglitz, K., 1998.
   Combinatorial optimization: Algorithms and complexity.
   Dover Publications.
