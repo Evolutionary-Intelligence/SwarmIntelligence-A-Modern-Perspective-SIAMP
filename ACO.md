@@ -1,4 +1,4 @@
-# (ACO)
+# Ant Colony Optimization (ACO)
 
 ## A History of ACO
 
@@ -25,6 +25,9 @@ The ACO was published for the first time in the Artificial Life conference calle
 * Papadimitriou, C.H. and Steiglitz, K., 1998.
   Combinatorial optimization: Algorithms and complexity.
   Dover Publications.
+* Di Caro, G. and Dorigo, M., 1998.
+  AntNet: Distributed stigmergetic control for communications networks.
+  Journal of Artificial Intelligence Research, 9, pp.317-365.
 * Dorigo, M., Maniezzo, V. and Colorni, A., 1996.
   Ant system: Optimization by a colony of cooperating agents.
   IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), pp.29-41.
